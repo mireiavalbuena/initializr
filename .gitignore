@@ -1,0 +1,4 @@
+# Ignorar carpeta temporal y otros archivos
+tmp/
+noloquiero.txt
+*.tmp
